@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "declaration": true,
+    "outDir": "dist",
+    "strict": true,
+    "sourceMap": true,
+    "lib": ["dom", "es5", "scripthost", "es2015.promise"]
+  },
+  "include": ["src/**/*", "coffee-flavors.ts"],
+  "exclude": ["node_modules", "**/*-spec.ts"]
+}
