@@ -16,7 +16,7 @@
   "author": "Harsh Zalavadiya <harsh@foobars.in> (twitter: @zhnebula)",
   "license": "MIT",
   "devDependencies": {
-    "microbundle": "^0.13.0"
+    "microbundle": "^0.15.0"
   },
   "dependencies": {}
 }
