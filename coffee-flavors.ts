@@ -65,7 +65,7 @@ export const CoffeeFlavors: ICoffeeFlavor[] = [
       },
       {
         name: "pepper",
-        color: "#734864"
+        color: "#bc4747"
       },
       {
         name: "brown spice",
