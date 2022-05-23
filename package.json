@@ -4,7 +4,7 @@
   "description": "Coffee Tester's Flavor Wheel",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
-  "repository": "harshzalavadiya/coffee-flavor-wheel",
+  "repository": "hc-oss/coffee-flavor-wheel",
   "files": [
     "dist"
   ],
@@ -16,7 +16,7 @@
   "author": "Harsh Zalavadiya <harsh@foobars.in> (twitter: @zhnebula)",
   "license": "MIT",
   "devDependencies": {
-    "microbundle": "^0.13.0"
+    "microbundle": "^0.15.0"
   },
   "dependencies": {}
 }
