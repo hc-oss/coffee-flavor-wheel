@@ -1,6 +1,6 @@
 {
   "name": "coffee-flavor-wheel",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Coffee Tester's Flavor Wheel",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
